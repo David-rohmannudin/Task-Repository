@@ -1,4 +1,4 @@
-# 1. Mint input tanggal, bulan dan tahun
+# 1. Minta input tanggal, bulan dan tahun
 
 # tanggal = int(input("masukkan tanggal(1-31): "))
 # bulan = int(input("masukkan bulan(1-12): "))
